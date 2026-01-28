@@ -1,8 +1,0 @@
-{
-  "track_id": "professional_dashboard_20260123",
-  "type": "feature",
-  "status": "new",
-  "created_at": "2026-01-23T01:42:00Z",
-  "updated_at": "2026-01-23T01:42:00Z",
-  "description": "Implement Professional Dashboard and Patient Management, including patient list views, profiles, and basic consultation note-taking."
-}

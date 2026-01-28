@@ -1,8 +1,0 @@
-{
-  "track_id": "appointment_booking_20260123",
-  "type": "feature",
-  "status": "new",
-  "created_at": "2026-01-23T02:00:00Z",
-  "updated_at": "2026-01-23T02:00:00Z",
-  "description": "Implement Appointment Booking and Scheduling, allowing patients to view availability and book sessions, and professionals to manage their calendar."
-}
