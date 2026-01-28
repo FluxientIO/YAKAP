@@ -1,0 +1,8 @@
+{
+  "track_id": "patient_dashboard_20260122",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-01-22T23:57:00Z",
+  "updated_at": "2026-01-22T23:57:00Z",
+  "description": "Implement Patient Dashboard and Mood Tracking, including emoji-based mood input, daily notes, and history view."
+}
